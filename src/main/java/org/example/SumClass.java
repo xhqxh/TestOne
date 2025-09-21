@@ -9,4 +9,11 @@ public class SumClass {
    }
 
 
+    public  void  two(){
+
+        System.out.print("two");
+
+    }
+
+
 }
