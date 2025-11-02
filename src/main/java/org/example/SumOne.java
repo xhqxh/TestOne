@@ -16,6 +16,13 @@ public class SumOne {
 
     }
 
+    public void three(){
+
+        System.out.print("three");
+
+
+    }
+
 
 
 
