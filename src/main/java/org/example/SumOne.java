@@ -23,6 +23,13 @@ public class SumOne {
 
     }
 
+    public void four(){
+
+        System.out.print("four");
+
+
+    }
+
 
 
 
