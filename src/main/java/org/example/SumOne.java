@@ -9,6 +9,14 @@ public class SumOne {
 
     }
 
+    public void two(){
+
+        System.out.print("tow");
+
+
+    }
+
+
 
 
 }
